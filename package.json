@@ -83,6 +83,7 @@
     ],
     "license": "Apache-2.0",
     "main": "build/js/Cindy.js",
+    "types": "build/Cindy.d.ts",
     "files": [
         "build/js",
         "LICENSE",
